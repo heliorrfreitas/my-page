@@ -1,0 +1,37 @@
+.home {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+.other-pages {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 200px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.home p {
+    width: 600px;
+    height: auto;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 615px) {
+    .home {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .home p {
+        width: 100%;
+    }
+
+}
