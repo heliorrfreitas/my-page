@@ -1,8 +1,21 @@
 .header {
-    background-color: teal;
-    color: yellow;
+    background-color: #00f;      
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+    font-weight: 700;    
 }
 
-span {
+.link {
     padding-right: 20px;
+    color: #fff;
 }
+
+.link:hover {
+    color:  #c0d6e4;
+}
+

@@ -6,9 +6,9 @@ function Header() {
     return (        
         <HashRouter basename="/">
         <div className="header">
-            <span><Link to="/">Home</Link></span>
-            <span><Link to="/projects">Projects</Link></span>
-            <span><Link to="/about-me">About Me</Link></span> 
+            <Link className="link" to="/">Home</Link>
+            <Link className="link" to="/projects">Projects</Link>
+            <Link className="link" to="/about-me">About Me</Link> 
         </div> 
         </HashRouter>  
     )
