@@ -16,6 +16,15 @@
     margin-top: 20px;
     display: flex;
     justify-content: center;
+    color: #000;
+}
+
+.other-pages a {
+    color: #000;
+}
+
+.other-pages a:hover {
+    color: #606b72;   
 }
 
 .home p {
