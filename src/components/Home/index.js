@@ -7,7 +7,7 @@ function Home() {
     return (
         <div className="home">
             <h2>Welcome, I am Helio Rui Ramos Freitas!</h2>
-            <p>You can check out somethings I have built on my free time, or things that I did to study going to my projects page. </p>
+            <p>The Projects page has a list of some things I have built either on my own, or following some class or tutorial. </p>
             <p>The About me page has a little bit more about me. </p>
 
             <HashRouter basename="/">                
