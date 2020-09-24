@@ -13,7 +13,7 @@ function Projects() {
                 or as part of a class.  </p>
             <div className="projects-list">
                 {projects.map(project => (
-                    <Card data={project} />
+                    <Card data={project} key={project.id} />
                 ))}    
             </div>
         </div>
