@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-page/static/css/main.625c4a14.chunk.css",
+    "main.js": "/my-page/static/js/main.c291c473.chunk.js",
+    "main.js.map": "/my-page/static/js/main.c291c473.chunk.js.map",
+    "runtime-main.js": "/my-page/static/js/runtime-main.9afb9fb7.js",
+    "runtime-main.js.map": "/my-page/static/js/runtime-main.9afb9fb7.js.map",
+    "static/js/2.3a706e81.chunk.js": "/my-page/static/js/2.3a706e81.chunk.js",
+    "static/js/2.3a706e81.chunk.js.map": "/my-page/static/js/2.3a706e81.chunk.js.map",
+    "index.html": "/my-page/index.html",
+    "precache-manifest.00c9da187970dfcd0a94fa852f06fe77.js": "/my-page/precache-manifest.00c9da187970dfcd0a94fa852f06fe77.js",
+    "service-worker.js": "/my-page/service-worker.js",
+    "static/css/main.625c4a14.chunk.css.map": "/my-page/static/css/main.625c4a14.chunk.css.map",
+    "static/js/2.3a706e81.chunk.js.LICENSE.txt": "/my-page/static/js/2.3a706e81.chunk.js.LICENSE.txt",
+    "static/media/base-converter.png": "/my-page/static/media/base-converter.1acb1a22.png",
+    "static/media/be-the-hero.png": "/my-page/static/media/be-the-hero.1670518e.png",
+    "static/media/border-radius-generator.png": "/my-page/static/media/border-radius-generator.9b3d45bf.png",
+    "static/media/ecoleta.png": "/my-page/static/media/ecoleta.4ff2da97.png",
+    "static/media/meme-generator.png": "/my-page/static/media/meme-generator.f981fa5e.png",
+    "static/media/simple-drawing-app.png": "/my-page/static/media/simple-drawing-app.0705bfae.png",
+    "static/media/space-invaders.png": "/my-page/static/media/space-invaders.925bd579.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9afb9fb7.js",
+    "static/js/2.3a706e81.chunk.js",
+    "static/css/main.625c4a14.chunk.css",
+    "static/js/main.c291c473.chunk.js"
+  ]
+}
