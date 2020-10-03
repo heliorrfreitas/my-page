@@ -2,8 +2,8 @@ const data = [
 {
     "id": 0,
     "title": "Portofolio Page",
-    "shortDescription": "Yes, this portofolio page is part of the portfolio",
-    "linkToProject": "https://github.com/heliorrfreitas/space_invaders",
+    "shortDescription": "Yes, this portofolio page is part of the portfolio.",
+    "linkToProject": "",
     "tags": ["game", "python", "programming", "pygame"]
 }, 
 
